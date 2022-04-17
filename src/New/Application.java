@@ -6,6 +6,7 @@ public class Application{
         student1.getName();
         student1.setAge(18);
         int age = student1.getAge();
+
         System.out.println(age);
     }
     
