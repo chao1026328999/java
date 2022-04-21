@@ -5,8 +5,8 @@ public class Application{
         Student student1 = new Student();
         student1.getName();
         student1.setAge(18);
-        int age = student1.getAge();
 
+        int age = student1.getAge();
         System.out.println(age);
     }
     
